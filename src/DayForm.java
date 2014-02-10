@@ -1,6 +1,11 @@
 import core.Day;
 import javax.microedition.lcdui.*;
 
+
+
+
+
+
 public class DayForm extends Form{
 	private ChoiceGroup _days;
 	private int _type;
